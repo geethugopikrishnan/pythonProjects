@@ -1,0 +1,14 @@
+.banner{
+background-color:#58096e;
+width:100%;
+height:100px;
+margin-bottom:25px;
+}
+.banner-text{
+font: small-caps bold 32px/1 sans-serif;
+top:50px;
+left:50%;
+color:#cea6d9;
+position:absolute;
+transform:transform;
+}
